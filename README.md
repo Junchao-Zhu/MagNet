@@ -22,7 +22,7 @@ This project consists of models of our newly-proposed MagNet, which is a multi-l
 - To conduct 4-fold validation, run:
 
   ```bash
-  python train.py --root_path '' --base_lr 0.005 --gpu '' --level '16' --batch_size 256
+  python main.py --root_path '' --base_lr 0.005 --gpu '' --level '16' --batch_size 256
   ```
 
 ## Experiment
